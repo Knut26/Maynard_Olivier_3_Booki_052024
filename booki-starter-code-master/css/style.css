@@ -884,12 +884,15 @@ ajout de padding pour aligner  */
     min-width: 320px;
     max-width: 768px;
     width: 100%;
-    border-image-source: radial-gradient(circle at center, #F2F2F2, transparent 80%);
+    border-image-source: radial-gradient(
+      circle at center,
+      #f2f2f2,
+      transparent 80%
+    );
     border-inline-start: 2px solid;
     border-block-start: 2px solid;
     border-image-slice: 1;
-    border-bottom: 2px solid #F2F2F2;
-    }
+    border-bottom: 2px solid #f2f2f2;
   }
 
   /* .btn-rechercher>.texte {
