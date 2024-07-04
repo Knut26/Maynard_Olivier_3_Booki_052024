@@ -82,7 +82,7 @@ avec un délai avec un léger zoom*/
   transition: color 1s;
   transform: scale(1.03);
   font-weight: 500;
-  margin-top: -9.5px;
+  margin-top: -10px;
   padding-top: 8px;
 }
 
