@@ -673,6 +673,7 @@ ajout de padding pour aligner  */
     margin: 25px 10px 10px 0px;
     padding: 0;
     align-self: baseline;
+    font-size: 18px;
   }
 
   .ligne {
